@@ -1,6 +1,6 @@
 {
-	"name": "Lazer Pie",
-	"toppings": ["dough_crust", "marinara_sauce", "mozzarella_cheese", "laser_beams"],
-	"img": "/assets/pizzas/lazer-pie.png",
-	"username": "ryan"
+  "name": "Lazer Pie",
+  "toppings": [ "dough_crust", "marinara_sauce", "mozzarella_cheese", "laser_beams" ],
+  "img": "//pizza-luvrs-aws-pub.s3-eu-west-1.amazonaws.com/pizzas/lazer-pie.png",
+  "username": "ryan"
 }

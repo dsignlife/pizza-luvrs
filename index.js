@@ -1,5 +1,5 @@
 const Hapi = require('@hapi/hapi')
-
+require('dotenv').config();
 const plugins = require('./plugins')
 const routes = require('./routes')
 
